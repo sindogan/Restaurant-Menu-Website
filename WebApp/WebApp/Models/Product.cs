@@ -7,5 +7,5 @@
     public string? ImageUrl { get; set; }
 
     public int CategoryId { get; set; }
-    public TblCategory Category { get; set; }
+    public required TblCategory Category { get; set; }
 }

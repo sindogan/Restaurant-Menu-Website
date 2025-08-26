@@ -5,5 +5,5 @@ public class TblCategory
     public int CategoryId { get; set; }
     public string? CategoryName { get; set; }
 
-    public ICollection<TblProduct> Products { get; set; }
+    public required ICollection<TblProduct> Products { get; set; }
 }
