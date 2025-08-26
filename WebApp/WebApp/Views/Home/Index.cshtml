@@ -1,0 +1,59 @@
+﻿
+@model List<MenuViewModel>
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Home";
+}
+
+
+<section id="menu" class="menu section">
+     <div class="container section-title" data-aos="fade-up">
+        <h2>MENÜMÜZ</h2>
+        <p><span>TÜM LEZZETLERİMİZİ</span> <span class="description-title">KEŞFEDİN</span></p>
+    </div><div class="container"> 
+        <ul class="nav nav-tabs d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
+            @foreach (var category in Model)
+            {
+                <li class="nav-item">
+                    <a class="nav-link @(category == Model.First() ? "active show" : "")"
+                       data-bs-toggle="tab"
+                       data-bs-target="#menu-@category.CategoryId">
+                        <h4>@category.CategoryName</h4>
+                    </a>
+                </li>
+            }
+        </ul>
+
+        <div class="tab-content" data-aos="fade-up" data-aos-delay="200">
+            @foreach (var category in Model)
+            {
+                <div class="tab-pane fade @(category == Model.First() ? "active show" : "")" id="menu-@category.CategoryId">
+                    <div class="tab-header text-center">
+                        <p>MENÜ</p>
+                        <h3>@category.CategoryName</h3>
+                    </div>
+
+                    <div class="row gy-5 justify-content-center ">
+                        @foreach (var product in category.Products)
+                        {
+                            <div class="col-lg-3 col-md-6 menu-item">
+                                <div class="menu-item-container text-center h-100 d-flex flex-column align-items-center">
+                                    <a href="@product.ImageUrl" class="glightbox">
+                                        <img src="@product.ImageUrl" class="menu-img img-fluid" alt="@product.ProductName" />
+                                    </a>
+                                    <h4 class="mt-2">@product.ProductName</h4>
+                                    <p class="ingredients">
+                                        @product.Description
+                                    </p>
+                                    <p class="price mt-auto">
+                                        @product.Price.ToString("C")
+                                    </p>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
