@@ -1,12 +1,173 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\models\\socials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\socials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\models\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\models\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\models\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Business.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Business.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Business.cs",
+              "RelativeToolTip": "WebApp\\Models\\Business.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:25:01.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Socials.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Socials.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Socials.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Socials.cs",
+              "RelativeToolTip": "WebApp\\Models\\Socials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:24:37.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Address.cs",
+              "RelativeToolTip": "WebApp\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:24:15.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menus.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Menus.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Menus.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Menus.cs",
+              "RelativeToolTip": "WebApp\\Models\\Menus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:23:50.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:22:37.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:22:10.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Category.cs",
+              "RelativeToolTip": "WebApp\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:21:16.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Product.cs",
+              "RelativeToolTip": "WebApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:20:58.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\MenuViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\MenuViewModel.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\MenuViewModel.cs",
+              "RelativeToolTip": "WebApp\\Models\\MenuViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAywBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:20:30.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
