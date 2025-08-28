@@ -1,38 +1,45 @@
 ﻿
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+//using Microsoft.AspNetCore.Mvc;
+//using Microsoft.EntityFrameworkCore;
 
-public class HomeController : Controller
-{
-    private readonly AppDbContext _context;
+//public class HomeController : Controller
+//{
+//    private readonly AppDbContext _context;
 
-    public HomeController(AppDbContext context)
-    {
-        _context = context;
-    }
+//    public HomeController(AppDbContext context)
+//    {
+//        _context = context;
+//    }
 
-    public IActionResult Index()
-    {
-        var categories = _context.TblCategory
-            .Include(c => c.Products)
-            .Select(c => new MenuViewModel
-            {
-                CategoryId = c.CategoryId,
-                CategoryName = c.CategoryName,
-                Products = c.Products.Select(p => new ProductViewModel
-                {
-                    ProductId = p.ProductId,
-                    ProductName = p.ProductName,
-                    Description = p.Description,
-                    Price = p.Price,
-                    ImageUrl = p.ImageUrl
-                }).ToList()
-            }).ToList();
+//    public IActionResult Index
+//    {
+//        get
+//        {
+//            var categories = _context.Category
+//                .Include(c => c.Products)
+//                .Select(c => new MenuViewModel
+//                {
+//                    CategoryId = c.CategoryId,
+//                    CategoryName = c.CategoryName,
+//                    CategoryDescription = c.CategoryDescription,
+//                    Products = c.Products.Select(p => new ProductViewModel
+//                    {
+//                        ProductId = p.ProductId,
+//                        ProductName = p.ProductName,
+//                        Description = p.Description,
+//                        Price = p.Price,
+//                        ImageUrl = p.ImageUrl
+//                    }).ToList()
+//                }).ToList();
 
-        return View(categories);
-    }
+//            return View(categories);
+//        }
 
-}
+//    }
+
+
+//}
+
 
 //using System.Linq;
 //using Microsoft.AspNetCore.Mvc;
@@ -90,3 +97,49 @@ public class HomeController : Controller
 //        return View(menuViewModels);
 //    }
 //}
+
+
+
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using System.Linq;
+using WebApp.Models;
+using WebApp.Repositories;
+
+public class HomeController : Controller
+{
+
+
+    public IActionResult Index()
+    {
+        //KategoriRepository kategoriRepository = new KategoriRepository();
+        //List<Kategori> kategoriList = new List<Kategori>();
+        //kategoriList=kategoriRepository.Listele().ToList();
+        //ViewBag.KategoriListesi = kategoriList;
+        
+        //UrunRepository urunRepository = new UrunRepository();
+        //List<Urun> urunList = new List<Urun>();
+        //urunList= urunRepository.Listele().ToList();
+        //ViewBag.UrunListesi = urunList;
+
+        //IletisimBilgileriRepository iletisimBilgileriRepository = new IletisimBilgileriRepository();
+        //List<IletisimBilgileri> iletisimBilgileriList = new List<IletisimBilgileri>();
+        //iletisimBilgileriList = iletisimBilgileriRepository.Listele().ToList();
+        //ViewBag.IletisimBilgileriListesi = iletisimBilgileriList;
+        
+
+
+        return View();
+        
+
+    }
+    
+        
+
+    
+
+    
+}
+
+
+
