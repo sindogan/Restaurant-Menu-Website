@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\models\\iletisimbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\iletisimbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\models\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\models\\iletisimbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\iletisimbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F5E6B92-E5B3-432E-8948-5323EA88E9B3}|WebApp\\WebApp.csproj|c:\\users\\acer\\source\\repos\\restaurant\\webapp\\webapp\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Urun.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Urun.cs",
               "RelativeDocumentMoniker": "WebApp\\Models\\Urun.cs",
@@ -59,38 +55,24 @@
               "RelativeToolTip": "WebApp\\Models\\Kategori.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T10:22:38.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T10:22:38.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "IletisimBilgileri.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\IletisimBilgileri.cs",
               "RelativeDocumentMoniker": "WebApp\\Models\\IletisimBilgileri.cs",
               "ToolTip": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\IletisimBilgileri.cs",
               "RelativeToolTip": "WebApp\\Models\\IletisimBilgileri.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T10:22:21.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACMDAAAAAAAAAAAiwC4DAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-29T11:27:45.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Models\\Context.cs",
               "RelativeDocumentMoniker": "WebApp\\Models\\Context.cs",
@@ -98,12 +80,11 @@
               "RelativeToolTip": "WebApp\\Models\\Context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T10:22:19.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T10:22:19.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Restaurant\\WebApp\\WebApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\HomeController.cs",
@@ -111,8 +92,7 @@
               "RelativeToolTip": "WebApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T10:21:20.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T10:21:20.111Z"
             }
           ]
         }

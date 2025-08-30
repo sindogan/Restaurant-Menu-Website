@@ -48,4 +48,7 @@ public partial class IletisimBilgileri
     public DateTime? EklenmeTarihi { get; set; }
 
     public DateTime? GuncellenmeTarihi { get; set; }
+    public string? Slogan { get; set; }
+    public string? Aciklama { get; set; }
+
 }
